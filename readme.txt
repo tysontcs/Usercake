@@ -1,5 +1,3 @@
-{P} ____ {P}
-
-USERCAKE v1.4 IMPROVED.
-
-Custom fork of the Usercake php user system.
+UserCake Version 2.0 
+Unofficial GitHub repo.
+www.usercake.com
